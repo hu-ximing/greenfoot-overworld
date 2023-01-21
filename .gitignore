@@ -1,4 +1,7 @@
 *.class
 *.ctxt
-.idea/
 doc/
+
+# IntelliJ IDEA Files #
+.idea/
+*.iml

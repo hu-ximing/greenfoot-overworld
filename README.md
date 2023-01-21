@@ -237,32 +237,6 @@ These are the small items which a green slime will drop upon its death. You can 
   - There are many, these are just examples.
 
 - Using and making accessors and mutators
-  
-  - The MyWorld class
-    
-    - `getPlayer`
-    
-    - `getGravity`
-  
-  - The GravityBound class
-    
-    - `getVSpeed`, `setVSpeed`
-  
-  - The Block class
-    
-    - `getBreakable`
-    
-    - `getOrganic`
-    
-    - `getSideLen`
-  
-  - The LivingThings class
-    
-    - `setInvulnerableTime`
-    
-    - `getHealth`, `setHealth`
-  
-  - etc.
 
 - Changing the transparency of an image
   
@@ -288,9 +262,7 @@ These are the small items which a green slime will drop upon its death. You can 
   
   - `getObjectsAtOffset` (isLanding)
   
-  - etc.
-
-## Screenshots
+  - etc. 
 
 ## Known issues
 
